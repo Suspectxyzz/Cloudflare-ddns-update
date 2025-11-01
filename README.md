@@ -18,3 +18,4 @@ Run the script to keep your DNS records up-to-date.
 - For detailed API documentation, refer to the [Cloudflare API documentation](https://gist.github.com/marcostolosa/09615d10fa09e57071bbeeb7a5fd03ee)
 
 - Status : `WORKS 20.6.2024`
+- The description is old but I won't change it.
